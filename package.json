@@ -1,0 +1,18 @@
+{
+  "name": "exercises-codewars",
+  "version": "1.0.0",
+  "description": "Exercise JavaScript from Codewars.com",
+  "main": "index.js",
+  "jest": {
+    "verbose": true
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": "https://github.com/dangvanthanh/exercises-codewars.git",
+  "author": "Dang Van Thanh <dangvanthanh@dangthanh.org>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^18.1.0"
+  }
+}
