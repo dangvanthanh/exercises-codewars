@@ -7,7 +7,7 @@ function countPositivesSumNegatives (array) {
       let sum = 0
 
       array.forEach((x) => {
-        if (x >= 0) {
+        if (x > 0) {
           count++
         }
       })
